@@ -1,0 +1,12 @@
+{
+    "name": "aliou-sow/file_transfert",
+    "authors": [
+        {
+            "name": "Aliou-Sow",
+            "email": "sowalils1992@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
